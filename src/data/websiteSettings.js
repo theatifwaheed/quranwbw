@@ -1,4 +1,4 @@
-export const websiteURL = 'QuranWBW.com';
+export const websiteURL = 'quran.fluxpert.com';
 
 export const websiteTagline = 'Word By Word Translation, Transliteration And Morphology';
 

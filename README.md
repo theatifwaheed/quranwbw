@@ -1,12 +1,12 @@
 <br />
 <div align="center">
-  <a target="_blank" href="https://quranwbw.com"><img src="https://raw.githubusercontent.com/marwan/quranwbw/main/static/images/banner.png?v=2"></a>
+  <a target="_blank" href="http://quran.fluxpert.com"><img src="https://raw.githubusercontent.com/marwan/quranwbw/main/static/images/banner.png?v=2"></a>
   <br />
 </div>
 
 ## About
 
-QuranWBW.com is your companion for reading, listening to, and learning the Holy Quran, word-by-word. With features like word audios, Tajweed colors, and transliteration, you can delve into the Quran with ease. Additionally, explore multi-language translations, tafsir, and detailed word morphology.
+quran.fluxpert.com is your companion for reading, listening to, and learning the Holy Quran, word-by-word. With features like word audios, Tajweed colors, and transliteration, you can delve into the Quran with ease. Additionally, explore multi-language translations, tafsir, and detailed word morphology.
 
 ## Project Status
 
@@ -48,7 +48,7 @@ For those who wish to run the project locally or contribute to its development, 
 
 ```bash
 # Clone the repository
-git clone https://github.com/marwan/quranwbw.git
+git clone <your-repository-url>
 
 # Navigate into the project directory
 cd quranwbw

@@ -10,7 +10,7 @@
 	__currentPage.set('about');
 </script>
 
-<PageHead title={'About'} description="QuranWBW.com is your companion for reading, listening to, and learning the Holy Quran, word by word. With features like word audios, Tajweed colors, and transliteration, you can delve into the Quran with ease. Additionally, explore multi-language translations, tafsir, and detailed word morphology." />
+<PageHead title={'About'} description="quran.fluxpert.com is your companion for reading, listening to, and learning the Holy Quran, word by word. With features like word audios, Tajweed colors, and transliteration, you can delve into the Quran with ease. Additionally, explore multi-language translations, tafsir, and detailed word morphology." />
 
 <div class="markdown mx-auto">
 	{@html html}

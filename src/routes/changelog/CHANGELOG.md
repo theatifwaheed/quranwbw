@@ -12,7 +12,7 @@
 
 ### Apr 5, 2026
 
-- **Hizb (Division) Pages:** Added dedicated Hizb pages, allowing you to navigate the Qur'an by its 60 Hizb divisions. These pages are accessible via URLs like [quranwbw.com/hizb/1](https://quranwbw.com/hizb/1), [quranwbw.com/hizb/60](https://quranwbw.com/hizb/60), and so on, making structured reading and revision even easier.
+- **Hizb (Division) Pages:** Added dedicated Hizb pages, allowing you to navigate the Qur'an by its 60 Hizb divisions. These pages are accessible via URLs like [quran.fluxpert.com/hizb/1](http://quran.fluxpert.com/hizb/1), [quran.fluxpert.com/hizb/60](http://quran.fluxpert.com/hizb/60), and so on, making structured reading and revision even easier.
 
 ---
 
@@ -205,7 +205,7 @@
   - Included Surah and Juz panels for better accessibility.
   - Added an option to hide the extras panel (which includes bookmarks, notes, and suggestions tabs).
 - **"Goto Verse" Button:** Added a button in the morphology page to directly navigate to specific verses.
-- **Juz Pages:** Introduced dedicated Juz pages accessible via URLs like [quranwbw.com/juz/1](https://quranwbw.com/juz/1), [quranwbw.com/juz/30](https://quranwbw.com/juz/30), etc.
+- **Juz Pages:** Introduced dedicated Juz pages accessible via URLs like [quran.fluxpert.com/juz/1](http://quran.fluxpert.com/juz/1), [quran.fluxpert.com/juz/30](http://quran.fluxpert.com/juz/30), etc.
 - **Bookmark Deletion Confirmation:** Added a confirmation alert when attempting to delete a bookmark from the homepage, preventing accidental deletions.
 
 ---
@@ -216,7 +216,7 @@ In this update, we’ve enhanced audio playback with translation support and set
 
 - **Enhanced Audio Modal:** Now allows translation playback and remembers your settings. Say goodbye to repetitive adjustments!
 - **New Reciters:** We are excited to welcome Ayman Suwayd and Ibrahim Al Akhdar. Enjoy their melodious recitations!
-- **Custom Chapter Slugs:** Jump to any chapter using their translated, transliterated, or Arabic names. For example: [quranwbw.com/cave](https://quranwbw.com/cave), [quranwbw.com/yaseen](https://quranwbw.com/yaseen), [quranwbw.com/هود](https://quranwbw.com/هود), [quranwbw.com/baqarah](https://quranwbw.com/baqarah)...
+- **Custom Chapter Slugs:** Jump to any chapter using their translated, transliterated, or Arabic names. For example: [quran.fluxpert.com/cave](http://quran.fluxpert.com/cave), [quran.fluxpert.com/yaseen](http://quran.fluxpert.com/yaseen), [quran.fluxpert.com/هود](http://quran.fluxpert.com/هود), [quran.fluxpert.com/baqarah](http://quran.fluxpert.com/baqarah)...
 - **Effortless Verse Copying:** Added an option to copy Arabic verse text effortlessly. Perfect for sharing and making notes!
 - **Ordered Verse Translations:** Display verse translations in the sequence you selected. Enjoy a seamless reading experience!
 - **Morphology Page Audio:** Added a button to listen to a word directly on the morphology page for enhanced learning and pronunciation.

@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // Config
-const baseURL = 'https://quranwbw.com';
+const baseURL = 'http://quran.fluxpert.com';
 const sitemapDir = path.join(__dirname, '../static');
 const LAST_TOPIC_ID = 1857;
 

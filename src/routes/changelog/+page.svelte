@@ -10,7 +10,7 @@
 	__currentPage.set('changelog');
 </script>
 
-<PageHead title={'Changelog'} description="Discover the latest updates, features, and improvements in QuranWBW.com." />
+<PageHead title={'Changelog'} description="Discover the latest updates, features, and improvements in quran.fluxpert.com." />
 
 <div class="markdown mx-auto">
 	{@html html}

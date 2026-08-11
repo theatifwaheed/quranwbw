@@ -1,14 +1,14 @@
 ### About the Website
 
-QuranWBW.com is your companion for reading, listening to, and learning the Holy Quran, word by word. With features like word audios, Tajweed colors, and transliteration, you can delve into the Quran with ease. Additionally, explore multi-language translations, tafsir, and detailed word morphology.
+quran.fluxpert.com is your companion for reading, listening to, and learning the Holy Quran, word by word. With features like word audios, Tajweed colors, and transliteration, you can delve into the Quran with ease. Additionally, explore multi-language translations, tafsir, and detailed word morphology.
 
-This website is a passion project, not a full-time endeavor. For issues, suggestions, or contributions, please visit our [GitHub repository](https://github.com/marwan/quranwbw) or contact us via [email](mailto:quranwbw@gmail.com). You can also join our [WhatsApp group](https://chat.whatsapp.com/CtrbWUB4GTyDdZWXWujVSl) for updates.
+This website is a passion project, not a full-time endeavor. For issues, suggestions, or contributions, please contact us via [email](mailto:quranwbw@gmail.com). You can also join our [WhatsApp group](https://chat.whatsapp.com/CtrbWUB4GTyDdZWXWujVSl) for updates.
 
 ---
 
 ### Website Credits
 
-QuranWBW.com owes its existence to the contributions of the following remarkable individuals and organizations:
+quran.fluxpert.com owes its existence to the contributions of the following remarkable individuals and organizations:
 
 - [Dr. Shehnaz Shaikh and Ms. Kausar Khatri](http://emuslim.com/Quran/Translation_English.asp) for their English word by word compilation.
 - [Dr. Farhat Hashmi](https://www.farhathashmi.com) for her Urdu word by word compilation.

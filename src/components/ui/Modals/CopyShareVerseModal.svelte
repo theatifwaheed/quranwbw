@@ -26,7 +26,7 @@
 	$: [chapter, verse] = $__verseKey.split(':').map(Number);
 
 	// Shareable link
-	$: websiteLink = `https://quranwbw.com/${chapter}/${verse}`;
+	$: websiteLink = `http://quran.fluxpert.com/${chapter}/${verse}`;
 
 	// Reset the generated data variable whenever any of the option changes
 	$: if ($__copyShareVerseModalVisible || $__verseKey || copyType || textType || includeKey || includeTranslationNames || includeFootNotes || includeLink) {
