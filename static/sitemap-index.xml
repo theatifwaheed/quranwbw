@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <sitemap>
-    <loc>http://quran.fluxpert.com/sitemap-static.xml</loc>
-    <lastmod>2026-08-11</lastmod>
+    <loc>https://quran.fluxpert.com/sitemap-static.xml</loc>
+    <lastmod>2026-08-17</lastmod>
   </sitemap>
-
   <sitemap>
-    <loc>http://quran.fluxpert.com/sitemap-chapters.xml</loc>
-    <lastmod>2026-08-11</lastmod>
+    <loc>https://quran.fluxpert.com/sitemap-chapters.xml</loc>
+    <lastmod>2026-08-17</lastmod>
   </sitemap>
-
   <sitemap>
-    <loc>http://quran.fluxpert.com/sitemap-divisions.xml</loc>
-    <lastmod>2026-08-11</lastmod>
+    <loc>https://quran.fluxpert.com/sitemap-divisions.xml</loc>
+    <lastmod>2026-08-17</lastmod>
   </sitemap>
-
   <sitemap>
-    <loc>http://quran.fluxpert.com/sitemap-verses.xml</loc>
-    <lastmod>2026-08-11</lastmod>
+    <loc>https://quran.fluxpert.com/sitemap-verses.xml</loc>
+    <lastmod>2026-08-17</lastmod>
   </sitemap>
-
   <sitemap>
-    <loc>http://quran.fluxpert.com/sitemap-topics.xml</loc>
-    <lastmod>2026-08-11</lastmod>
+    <loc>https://quran.fluxpert.com/sitemap-topics.xml</loc>
+    <lastmod>2026-08-17</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://quran.fluxpert.com/sitemap-duas.xml</loc>
+    <lastmod>2026-08-17</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://quran.fluxpert.com/sitemap-morphology.xml</loc>
+    <lastmod>2026-08-17</lastmod>
   </sitemap>
 </sitemapindex>

@@ -10,6 +10,7 @@
 		"build": "vite build",
 		"preview": "vite build && vite preview",
 		"start": "node build",
+		"sitemap": "node scripts/generateSitemap.advanced.js",
 		"lint:unused": "eslint . --ext .js,.svelte --max-warnings=0"
 	},
 	"overrides": {
